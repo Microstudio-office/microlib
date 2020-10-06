@@ -1,7 +1,8 @@
-#版权声明：任何人均不可复制该文档内容！
+#版权声明：任何人均不可复制该文档内容！  Copyright notice: No one can copy the content of this document!
+#更多见Mor text see code.xueersi.com/
 def qp()
-  	from os import system as xt
-    xt("clear")
+	from os import system as xt
+	xt("clear")
 
 def f_p(nr,sj):
         print("该功能暂时停用")
